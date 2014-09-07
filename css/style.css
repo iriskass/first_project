@@ -1,0 +1,31 @@
+html{
+	background: url("../images/clouds_seamless_02.jpg") #81daf5;
+}
+body {
+	margin: 80px;
+}
+
+.registration{
+	color: #0040ff;
+	font-size: 50pt;
+	text-align: center;
+	text-shadow: 1px 1px 0px #000;
+	font-weight: bold;
+}
+
+.items{
+	color: #0040ff;
+	font-size: 14pt;
+}
+
+.adition{
+	color: #0040ff;
+	font-size: 30pt;
+	text-align: center;
+	text-shadow: 1px 1px 0px #000;
+	font-weight: bold;
+}
+.put{
+	color: #0040ff;
+	font-size: 14pt;
+}
